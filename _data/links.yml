@@ -2,7 +2,7 @@
   - name: 工作
     links:
     - name: Android
-	  icon: android green
+      icon: android green
       style: basic
       url: https://developer.android.google.cn/
 
@@ -13,7 +13,7 @@
 
     - name: Github
       style: basic
-	  icon: github grey
+      icon: github grey
       url: https://github.com/
 
     - name: Google
@@ -99,7 +99,7 @@
       url: https://echarts.apache.org/zh/index.html
 
     - name: Python
-	  icon: python black
+      icon: python black
       style: basic
       url: https://docs.python.org/zh-cn/3/
 
