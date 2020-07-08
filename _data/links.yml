@@ -36,6 +36,11 @@
       style: basic
       url: https://fanyi.baidu.com/
 
+    - name: 知微事见
+      icon: windows black
+      style: basic
+      url: https://ef.zhiweidata.com/
+
     - name: 搜图导航
       icon: cloud olive
       style: basic
