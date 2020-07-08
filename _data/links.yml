@@ -15,6 +15,30 @@
       icon: envelope red
       style: basic
       url: http://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: https://mail.google.com/
+
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.com/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: https://fanyi.baidu.com/
+
+    - name: 天眼查
+      style: basic
+      url: https://www.tianyancha.com/
   
   - name: 工作
     links:
