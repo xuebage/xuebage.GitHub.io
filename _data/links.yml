@@ -1,4 +1,17 @@
 - categories:
+  - name: 工具
+    links:
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: https://developer.android.google.cn/
+
+    - name: 快递查询
+      icon: apple grey
+      style: basic  
+      url: https://developer.apple.com/
+
+  
   - name: 工作
     links:
     - name: Android
