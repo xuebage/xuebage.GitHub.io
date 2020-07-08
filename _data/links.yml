@@ -257,8 +257,8 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
-	 
-  - name: 工具
+
+- name: 工具
     links:
     - name: '12306'
       icon: train red
